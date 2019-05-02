@@ -1,0 +1,7 @@
+#borderPane{
+    -fx-background-image: url("../images/dekel.png");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 200px 200px;
+    -fx-background-color: white;
+}
